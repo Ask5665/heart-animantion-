@@ -2,7 +2,8 @@
 
 This repository contains a simple yet charming Python animation of a heart shape using **Matplotlib** — perfect for learning, sharing, or even impressing someone special 💌.
 
-![Heart Animation](heart.gif)
+<img src="heart.gif" alt="Heart Animation" width="300">
+
 
 ---
 
