@@ -1,15 +1,23 @@
-# 💖 Heart Animation with Python
+# 💖 Heart Animation in Python
 
-This project contains a simple yet beautiful Python animation of a heart shape using Matplotlib — perfect for impressing your girl, or just sharing some love through code.
+This repository contains a simple yet charming Python animation of a heart shape using **Matplotlib** — perfect for learning, sharing, or even impressing someone special 💌.
 
-## 💡 Features
-- Animated pulsating heart
-- Smooth color transitions
-- Built using NumPy and Matplotlib
+![Heart Animation](heart.gif)
 
-## 🚀 How to Run
+---
 
-### Prerequisites
-Make sure you have Python installed along with the following libraries:
+## ✨ Project Highlights
+
+- Animated pulsating heart shape
+- Smooth color transitions using `plasma` color map
+- Created with only Python, NumPy, and Matplotlib
+- Outputs a high-quality `.gif` for sharing
+
+---
+
+## 🔧 Requirements
+
+Make sure Python is installed. Then install the required libraries:
+
 ```bash
-pip install numpy matplotlib
+pip install numpy matplotlib pillow
